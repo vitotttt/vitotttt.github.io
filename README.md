@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
    <meta charset="UTF-8">
-   <title>Redirecionamento após 1 segundo</title>
    <script>
       setTimeout(function() {
          window.location.href = "https://twitter.com/bluezao";
