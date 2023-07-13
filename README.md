@@ -4,7 +4,7 @@
    <script>
       setTimeout(function() {
          window.location.href = "https://twitter.com/bluezao";
-      }, 1000); // 1000ms = 1 segundo
+      }, 10000); // 1000ms = 1 segundo
    </script>
 </head>
 <body>
